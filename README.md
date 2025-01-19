@@ -31,7 +31,7 @@ This application allows you to control the system's volume through hand gestures
 ## Usage
 1. Run the script:
    ```bash
-   python hand_gesture_volume_control.py
+   python volumeUpDown.py
    ```
 2. Allow the webcam to start, and position your hand in front of the camera.
 3. Use the following gestures:
